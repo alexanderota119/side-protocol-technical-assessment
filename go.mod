@@ -1,4 +1,4 @@
-module github.com/david-side-protocol-technical
+module github.com/side-protocol-technical-assessment
 
 go 1.19
 
